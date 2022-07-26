@@ -18,4 +18,4 @@ This repository contains all of the notes taken by [Rezwan Ahmed](https://github
 
 ### Shortcuts
 1. Cmd k + v = Opens preview for this
-
+2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
